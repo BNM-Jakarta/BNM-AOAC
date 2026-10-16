@@ -435,7 +435,7 @@
          */
         const CONFIG = {
             // 👇 GANTI URL DI BAWAH INI DENGAN URL WEB APP GOOGLE APPS SCRIPT ANDA 👇
-            GOOGLE_SCRIPT_URL: "https://script.google.com/macros/s/GANTI_DENGAN_ID_DEPLOYMENT_ANDA/exec",
+            GOOGLE_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbyocaEqK3MjYGdzN1t1DJU1j1NyuEcCFIvkhj8xnuTO61J7T39cQRNiL77RL2oMSK1Y/exec",
 
             // Informasi Acara Resmi:
             SUBJUDUL_ACARA: "Buku Tamu & Registrasi Peserta",
